@@ -1,4 +1,5 @@
-# app_ads.txt用
+# app_chat
+## app_ads.txt用
 このページでは、アプリで使用している`app-ads.txt`を表示します。
 
 <pre>
